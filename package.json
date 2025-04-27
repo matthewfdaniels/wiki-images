@@ -34,6 +34,12 @@
 		"vite": "^6.3.3",
 		"vite-plugin-svgstring": "^1.0.0"
 	},
+	"dependencies": {
+		"@deck.gl/core": "^9.0.0",
+		"@deck.gl/layers": "^9.0.0",
+		"@octokit/rest": "^20.0.2",
+		"maplibre-gl": "^3.6.0"
+	},
 	"type": "module",
 	"engines": {
 		"node": ">= 18.20.4"
